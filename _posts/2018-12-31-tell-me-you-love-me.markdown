@@ -7,3 +7,4 @@ categories: jekyll update
 Complete simple tasks to earn real money with the app. You can easily make money by completing surveys, giving opinions, testing services and so on.
 
 My app is not live yet, here is some screenshots:
+![avatar](https://raw.githubusercontent.com/specialbrian/specialbrian.github.io/master/_posts/fyber1.jpg)
